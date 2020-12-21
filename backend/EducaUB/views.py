@@ -199,3 +199,5 @@ def teste(request, my_id):
             connection.close()
             print("PostgreSQL connection is closed")
     return(JsonResponse(json_ret, safe=False))
+
+

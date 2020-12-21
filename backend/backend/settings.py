@@ -84,7 +84,7 @@ DATABASES = {
     # }
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'EducaUB',
+        'NAME': 'Teste3',
         'USER': 'postgres',
         'PASSWORD': 'banco',
         'HOST': 'localhost',
